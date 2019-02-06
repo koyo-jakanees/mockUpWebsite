@@ -1,0 +1,23 @@
+html{
+    background-color: #A1A1A1;
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+h2{
+    color: green;
+    font-style: italic;
+    text-align: center;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+ul,ol,dl{
+    line-height: 40px;
+    border-block-end: 1px;
+    background-color: lightseagreen;
+    text-align: justify;
+    text-emphasis-color: green;
+}
