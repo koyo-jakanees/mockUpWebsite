@@ -2,6 +2,7 @@ html{
     background-color: #A1A1A1;
 }
 h1 {
+    font-size: 5vw;
     color: blue;
     text-align: center;
 }
@@ -15,9 +16,22 @@ p{
     background-color: beige;
 }
 ul,ol,dl{
+    font-style: oblique;
     line-height: 40px;
     border-block-end: 1px;
     background-color: lightseagreen;
     text-align: justify;
     text-emphasis-color: green;
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+    border-right-style: groove;
+    border-left-style: groove;
+    border: 1px solidpowderblue;
+    border-radius: 5px;
+    padding: 30px;
+    margin: auto;
+}
+strong,em{
+    font-size: 3vw;
+    font-weight: bolder;
 }
