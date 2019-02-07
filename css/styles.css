@@ -22,9 +22,9 @@ ul,ol,dl{
     background-color: lightseagreen;
     text-align: justify;
     text-emphasis-color: green;
-    border-top-style: dashed;
-    border-bottom-style: dashed;
-    border-right-style: groove;
+    border-top-style: groove;
+    border-bottom-style: dotted;
+    border-right-style: dotted;
     border-left-style: groove;
     border: 1px solidpowderblue;
     border-radius: 5px;
