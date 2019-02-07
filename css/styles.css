@@ -42,3 +42,12 @@ strong,em{
     font-size: 3vw;
     font-weight: bolder;
 }
+img{
+    border-image-source: inherit;
+    border-image: 1px;
+    width: 50%;
+    height: auto;
+    background-size: contain;
+    align-content: center;
+
+}
