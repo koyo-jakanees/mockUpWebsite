@@ -20,9 +20,9 @@ Minor update from ctrl-c ctrl-v MLS
 * Flutter and dart depencies
 * format
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-## Known :bugs:
+## Known :bug:
 At the point of publishing only known bug is an ugly looking website.
-Please Report any 
+Please Report any :bug: to @Nich or open an issue
 ## Technologies Used
   - HTML
   - CSS
