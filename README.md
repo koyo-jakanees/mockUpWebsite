@@ -27,7 +27,7 @@ Please Report any :bug: to @Nich or open an issue
   - HTML
   - CSS
   - CTRL-c && CTRL-V
-  - Python
+  - Python :snake:
   - javascript
   - Latex
 ## Support and contact details
