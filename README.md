@@ -3,7 +3,7 @@
 Minor update from ctrl-c ctrl-v MLS
 
 
-# :bowtie: IS THIS THE END?:sunglasses:
+# :panda_face: IS THIS THE END?:sunglasses:
 
 #### Simple html application for beginners, {created: yesterday, Published:Today}
 #### By **@Nich and @Nic**
