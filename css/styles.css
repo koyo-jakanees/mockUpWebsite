@@ -13,6 +13,7 @@ h2{
     text-align: center;
 }
 h3{
+    color: peru;
     font-style: normal;
     font-size: 2.5vw;
     font-weight: bolder;
@@ -24,15 +25,16 @@ p{
     background-color: beige;
 }
 ul,ol,dl{
+    color: blueviolet
     font-style: oblique;
     line-height: 40px;
     border-block-end: 1px;
     background-color: lightseagreen;
     text-align: justify;
-    text-emphasis-color: green;
+    text-emphasis-color: purple;
     border-top-style: groove;
     border-bottom-style: dotted;
-    border-right-style: dotted;
+    border-right-style: dashed;
     border-left-style: groove;
     border: 1px solidpowderblue;
     border-radius: 5px;
