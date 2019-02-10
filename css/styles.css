@@ -25,7 +25,7 @@ p{
     background-color: beige;
 }
 ul,ol,dl{
-    color: blueviolet
+    color: blueviolet;
     font-style: oblique;
     line-height: 40px;
     border-block-end: 1px;
