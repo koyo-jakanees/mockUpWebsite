@@ -74,9 +74,17 @@ img{
     
 }
 .myPalWebsite{
-    float: right;
+    float: left;
     padding: 2px;
     margin: 2px;
     background-color: aliceblue;
     border: 5px;
+    size: 100%;
+}
+.myPalWebsite img{
+    width: 100%;
+}
+.myPalWebsite h6{
+    color: green;
+    text-align: center
 }
