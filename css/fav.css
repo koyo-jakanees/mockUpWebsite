@@ -1,6 +1,6 @@
 header{
     position: fixed;
-    height: 70px;
+    height: 50px;
     width: 100%;
     top: 0;
     background-color:rgb(21, 17, 41);
@@ -28,6 +28,8 @@ footer{
     background-color:rgb(21, 17, 41);
     width: 100%;
     height: 100px; 
+    position: fixed;
+    bottom: 0;
 }
 footer h1{
     color: lawngreen;
@@ -35,6 +37,7 @@ footer h1{
     margin: 2px 2px;
     padding: 1px;
     size: 20px;
+    trans
 }
 footer ul{
     float: right;
@@ -42,4 +45,10 @@ footer ul{
     margin: 2px;
     padding: 1px;
     color: darkgrey;
+}
+body{
+    width: 100%;
+    height: 100%;
+    color: black;
+    margin: 10px;
 }
